@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+# Steps of creation
+
+* use the command
+  
+        rails new Page_Ruby
